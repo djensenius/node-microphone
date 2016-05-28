@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "lame": "1.0.3"
+    "lame": "git+ssh://git@github.com/LinusU/node-lame.git#node6"
   },
   "devDependencies": {},
   "homepage": "http://github.com/vincentsaluzzo/node-microphone",
